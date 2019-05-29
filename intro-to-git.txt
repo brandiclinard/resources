@@ -1,0 +1,12 @@
+/    is the root folder
+/Applications
+/Library
+/System
+/Users/your-username is your home folder
+~ is the same thing as /Users/your-username
+
+~/Applications
+~/Downloads
+~/Desktop
+~/IdeaProjects
+~/IdeaProjects/codeup-web-exercises
